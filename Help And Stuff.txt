@@ -1,0 +1,5 @@
+Tested on Intel hd 4000
+Default Available resolutions are FHD HD & 4k
+You can edit and compile the provided source code to add custom resolutions
+Use xrandr command to get the mode line (eg: xrandr 800 600)
+DO AT YOUR OWN RISK !
